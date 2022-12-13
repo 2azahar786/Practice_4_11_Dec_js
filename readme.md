@@ -1,4 +1,4 @@
-# Full Stack Javascript Bootcamp 3.0
+# Full Stack Javascript Bootcamp 2.0
 
 ## This lecture is for conditions, date and Math, Loops
 
@@ -36,3 +36,6 @@ _For_
 ```
 
 [Click Here to see th full javascript basics](./index_script.js)
+
+
+![Click Here](./asset/javascript.jpg)
